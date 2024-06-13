@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)NinjaAnimeDubber
 
 import base64
 import re
